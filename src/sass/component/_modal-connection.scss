@@ -49,7 +49,8 @@
 }
 
 .form-connection {
-  &__name {
+  &__label {
+    display: flex;
     margin-bottom: 8px;
 
     font-weight: 500;
